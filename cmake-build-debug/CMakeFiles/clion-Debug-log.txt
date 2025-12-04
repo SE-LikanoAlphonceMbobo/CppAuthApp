@@ -1,0 +1,16 @@
+"C:\Program Files\JetBrains\CLion 2025.1\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "MinGW Makefiles" -S C:\Users\Public\CLion\CppAuthApp -B C:\Users\Public\CLion\CppAuthApp\cmake-build-debug
+-- Fetching nlohmann/json...
+CMake Deprecation Warning at cmake-build-debug/_deps/nlohmann_json-src/CMakeLists.txt:1 (cmake_minimum_required):
+  Compatibility with CMake < 3.10 will be removed from a future version of
+  CMake.
+
+  Update the VERSION argument <min> value.  Or, use the <min>...<max> syntax
+  to tell CMake that the project requires at least <min> but has been updated
+  to work with policies introduced by <max> or earlier.
+
+
+-- Using the multi-header code from C:/Users/Public/CLion/CppAuthApp/cmake-build-debug/_deps/nlohmann_json-src/include/
+-- Fetching cpp-httplib...
+-- Configuring done (15.7s)
+-- Generating done (0.1s)
+-- Build files have been written to: C:/Users/Public/CLion/CppAuthApp/cmake-build-debug

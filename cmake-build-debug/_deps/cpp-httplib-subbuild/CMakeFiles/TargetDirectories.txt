@@ -1,0 +1,3 @@
+C:/Users/Public/CLion/CppAuthApp/cmake-build-debug/_deps/cpp-httplib-subbuild/CMakeFiles/cpp-httplib-populate.dir
+C:/Users/Public/CLion/CppAuthApp/cmake-build-debug/_deps/cpp-httplib-subbuild/CMakeFiles/edit_cache.dir
+C:/Users/Public/CLion/CppAuthApp/cmake-build-debug/_deps/cpp-httplib-subbuild/CMakeFiles/rebuild_cache.dir

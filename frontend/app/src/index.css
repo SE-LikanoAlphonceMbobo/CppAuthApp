@@ -1,0 +1,55 @@
+/* src/index.css */
+
+/* A modern CSS reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+  /* The background is now handled by Login.css, but we can keep a default */
+  background-color: #f0f2f5;
+  color: #333;
+}
+
+/* Dashboard specific styles (kept from before) */
+#root {
+  width: 100%;
+  max-width: 400px;
+  padding: 20px;
+  margin: auto; /* Center the dashboard if not logged in */
+}
+
+h2 {
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+button {
+  padding: 12px;
+  border: none;
+  border-radius: 6px;
+  background-color: #dc3545; /* A red color for logout */
+  color: white;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.2s;
+}
+
+button:hover {
+  background-color: #c82333;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  background-color: #e9ecef;
+  padding: 10px;
+  border-radius: 4px;
+  margin-bottom: 5px;
+}
